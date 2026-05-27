@@ -1,0 +1,4 @@
+SET TALK OFF
+CLEAR 
+DO FORM Calculadora
+READ EVENTS
